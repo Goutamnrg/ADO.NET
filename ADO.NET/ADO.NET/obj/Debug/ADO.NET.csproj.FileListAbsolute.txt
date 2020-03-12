@@ -1,0 +1,10 @@
+C:\GoutamDasC#\ADO.NET\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe.config
+C:\GoutamDasC#\ADO.NET\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe
+C:\GoutamDasC#\ADO.NET\ADO.NET\ADO.NET\bin\Debug\ADO.NET.pdb
+C:\GoutamDasC#\ADO.NET\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csprojAssemblyReference.cache
+C:\GoutamDasC#\ADO.NET\ADO.NET\ADO.NET\obj\Debug\ADO.NET.Form1.resources
+C:\GoutamDasC#\ADO.NET\ADO.NET\ADO.NET\obj\Debug\ADO.NET.Properties.Resources.resources
+C:\GoutamDasC#\ADO.NET\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csproj.GenerateResource.cache
+C:\GoutamDasC#\ADO.NET\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csproj.CoreCompileInputs.cache
+C:\GoutamDasC#\ADO.NET\ADO.NET\ADO.NET\obj\Debug\ADO.NET.exe
+C:\GoutamDasC#\ADO.NET\ADO.NET\ADO.NET\obj\Debug\ADO.NET.pdb
